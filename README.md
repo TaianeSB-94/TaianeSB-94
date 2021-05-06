@@ -1,8 +1,5 @@
 ### 👋 Oi! Meu nome é Taiane Barbosa.
 
-<!--
-**TaianeSB-94/TaianeSB-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 Atualmente trabalho como analista de sistemas...
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - ⚡ Java
 - ⚡ TypeScript
 - 💭 Fun fact: Nascida e criada em Salvador, Bahia, Brasil. 
--->
